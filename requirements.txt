@@ -1,0 +1,5 @@
+google-cloud-aiplatform>=1.27.0
+shapely<=2.0.0
+streamlit
+PyPDF2
+vertexai
